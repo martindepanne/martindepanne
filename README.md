@@ -1,5 +1,5 @@
 ## <a id="aboutme"></a>🪄 〢 About Me
-*Je touche à tout*
+*Martin Dépanne 🤷‍♂️*
 
 ## <a id="socials"></a>🌐 〢 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://guns.lol/martindepanne) 
